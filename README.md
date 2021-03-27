@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 
 -->
 
+
+<p align="center">
+  <img
+src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+
 <p>
   
-  <h1 align="center">About me<br>
-  <h3 align="center"> 🔭 I’m currently working on a Discord Bot with a dashboard interface<br> </h3>
-  <h3 align="center"> 🌱 I’m currently learning React<br> </h3>
   <h3 align="center"> ⚡ Fun fact: I usually don't like joking around<br> </h3>
     </h1>
     
